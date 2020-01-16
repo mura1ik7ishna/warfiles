@@ -9,3 +9,5 @@ RUN mvn -s /usr/share/maven/ref/settings-docker.xml clean install && \
     ln -s -f /app/sav.war /app/active.war
 
 WORKDIR /app/runtime
+
+asfsadfsdf
